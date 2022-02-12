@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adobe Icon Generator REBORN", "Adobe Icon Generator REBORN\Adobe Icon Generator REBORN.csproj", "{BAD8B875-64BA-4F42-91BB-51E4986245CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD8B875-64BA-4F42-91BB-51E4986245CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD8B875-64BA-4F42-91BB-51E4986245CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD8B875-64BA-4F42-91BB-51E4986245CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD8B875-64BA-4F42-91BB-51E4986245CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1722CE0F-C748-4EBC-8FE8-CC806B48691F}
+	EndGlobalSection
+EndGlobal
